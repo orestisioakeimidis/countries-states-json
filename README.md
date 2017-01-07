@@ -1,2 +1,3 @@
-# countries-states-json
-Countries and states in json
+# Countries / States JSON
+
+Countries and states in json.
