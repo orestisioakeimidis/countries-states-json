@@ -1,0 +1,25 @@
+{
+  "name": "countries-states-json",
+  "version": "1.0.0",
+  "description": "Countries and states in json.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orestisioakeimidis/countries-states-json.git"
+  },
+  "keywords": [
+    "countries",
+    "states"
+  ],
+  "author": {
+    "name": "Orestis Ioakeimidis",
+    "email": "o.ioakeimidis@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orestisioakeimidis/countries-states-json/issues"
+  },
+  "homepage": "https://github.com/orestisioakeimidis/countries-states-json#readme"
+}
