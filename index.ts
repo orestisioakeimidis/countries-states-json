@@ -1,3 +1,1 @@
-import { countries, BR, US } from './src';
-
-export { countries, BR, US };
+export { CountryState, countries, BR, US } from './src';

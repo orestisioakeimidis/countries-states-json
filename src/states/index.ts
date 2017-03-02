@@ -1,4 +1,2 @@
-import { BR } from './BR';
-import { US } from './US';
-
-export { BR, US };
+export { BR } from './BR';
+export { US } from './US';
