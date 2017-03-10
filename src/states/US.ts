@@ -25,6 +25,9 @@ export const US: CountryState[] = [{
   name: 'Delaware',
   code: 'DE'
 }, {
+  name: 'District of Columbia',
+  code: 'DC'
+}, {
   name: 'Florida',
   code: 'FL'
 }, {
